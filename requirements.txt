@@ -1,0 +1,11 @@
+django
+opencv-python
+Pillow
+scipy
+schedule
+mxnet==1.0.0
+scikit-learn
+easydict
+matplotlib==3.0.3
+scikit_image
+numpy
