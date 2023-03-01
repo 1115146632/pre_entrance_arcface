@@ -3,7 +3,7 @@ opencv-python
 Pillow
 scipy
 schedule
-mxnet==1.0.0
+mxnet==1.9.1
 scikit-learn
 easydict
 matplotlib==3.0.3
